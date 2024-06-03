@@ -1,0 +1,18 @@
+[project]
+name = "AAMM_miniml"
+version = "0.0.1"
+authors = [
+  { name="Adnane AIT MAGOURT" },
+  { name="Mahmoud MAFTAH" }
+]
+description = "A small scikit-learn package"
+readme = "README.md"
+requires-python = ">=3.9"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/adnanemagourt/AAMM_miniml"

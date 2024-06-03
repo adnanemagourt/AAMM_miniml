@@ -1,3 +1,16 @@
+Metadata-Version: 2.1
+Name: AAMM_miniml
+Version: 0.0.1
+Summary: A small scikit-learn package
+Author: Adnane AIT MAGOURT, Mahmoud MAFTAH
+Project-URL: Homepage, https://github.com/adnanemagourt/AAMM_miniml
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # AAMM_miniml
 
 AAMM_miniml is a minimalistic machine learning library providing implementations of various machine learning algorithms, including classification, regression, ensemble methods, decomposition techniques, and more.
@@ -20,12 +33,6 @@ To use AAMM_miniml, clone the repository and install the necessary dependencies:
 git clone https://github.com/adnanemagourt/AAMM_miniml.git
 cd AAMM_miniml
 pip install -r requirements.txt
-```
-
-or
-
-```bash
-pip install -i https://test.pypi.org/simple/ AAMM-miniml==0.0.1
 ```
 
 ## Usage

@@ -1,0 +1,17 @@
+.vscode/
+AAMM_miniml/__pycache__/
+AAMM_miniml/_helpers/__pycache__/
+AAMM_miniml/ensemble/__pycache__/
+AAMM_miniml/impute/__pycache__/
+AAMM_miniml/linear_model/__pycache__/
+AAMM_miniml/metrics/__pycache__/
+AAMM_miniml/model_selection/__pycache__/
+AAMM_miniml/naive_bayes/__pycache__/
+AAMM_miniml/neighbors/__pycache__/
+AAMM_miniml/neural_network/__pycache__/
+AAMM_miniml/preprocessing/__pycache__/
+AAMM_miniml/testing/__pycache__/
+AAMM_miniml/tree/__pycache__/
+AAMM_miniml/svm/__pycache__/
+
+
